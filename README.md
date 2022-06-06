@@ -1,16 +1,16 @@
 # Linkedin Message Automation
-> This linkendin automation script allows one to add links of linkedin profiles you want to connect to and the bot automatically logs in on your account and send provided message to connects and connects with them. Currently commands are passed with a list of dictionaries. This project uses selenium for web scraping and automation. I got the inspiration to work on this while working on my discord bot application [![Discord Bot](https://github.com/devvspaces/discordbot)]. I learnt a lot about email services and seamless web automation while working on this project.
+> This linkendin automation script allows one to add links of linkedin profiles you want to connect to and the bot automatically logs in on your account and send provided message to connects and connects with them. Currently commands are passed with a list of dictionaries. This project uses selenium for web scraping and automation. I got the inspiration to work on this while working on my discord bot application [Discord Bot](https://github.com/devvspaces/discordbot). I learnt a lot about email services and seamless web automation while working on this project.
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/devvspaces/readme_template/graphs/commit-activity)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/devvspaces/readme_template/issues)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/devvspaces/linkedin_automation/graphs/commit-activity)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/devvspaces/linkedin_automation/issues)
 
-![](https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png)
 
 
 ## Requirements  (Prerequisites)
 Tools and packages required to successfully install this project.
 For example:
 * Python 3.3 and up [Install](https://www.python.org/downloads/)
+
 
 ## Installation
 A step by step list of commands / guide that informs how to install an instance of this project. 
@@ -19,11 +19,12 @@ First setup python virtual environment (optional but good)
 ```sh
 
 pip install virtualenv
-virtualenv venv #create the virtual environment
 
-source venv/bin/activate #For linux systems
+virtualenv venv # Create the virtual environment
 
-venv/Scripts/activate #For Windows systems
+source venv/bin/activate # For linux systems
+
+venv/Scripts/activate # For Windows systems
 
 ```
 
@@ -32,6 +33,7 @@ Install project dependencies
 `$ pip install -r requirements.txt`
 
 Start Automation
+
 `$ python linkedin.py`
 
 
@@ -73,7 +75,9 @@ Ayanwola Ayomide – sketcherslodge@gmail.com
 I love programming with python but also uses JavaScript and php on client side to create more dynamic applications.
  
 You can find me here at:
+
 [Github](https://github.com/devvspaces)
+
 [LinkedIn](https://www.linkedin.com/in/netrobe-webby-878920194/)
 
 ## Credits
